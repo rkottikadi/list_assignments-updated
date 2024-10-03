@@ -1,4 +1,3 @@
-#use this list of menu items
 menu_items = [
 'D1 ​​SODA 3',
 'D2 ​​LEMONADE 3',
@@ -21,6 +20,7 @@ menu_items = [
 'T3 ​​BROWNIE_SUNDAE 9',
 'T4 ​​FLAN 8'
 ]
+
 drink_items = ['D1', 'D2',  'D3', 'D4']
 appetizer_items = ['A1', 'A2',  'A3', 'A4', 'A5']
 salad_items = ['S1', 'S2', 'S3']
